@@ -1,14 +1,13 @@
-baseURL = 'https://thibautvas.com/'
-languageCode = 'en-us'
-title = 'Thibaut Vas'
-theme = 'tailwind'
+baseURL = "https://thibautvas.com/"
+languageCode = "en-us"
+title = "Thibaut Vas"
+theme = "tailwind"
 
 [markup]
   _merge = "deep"
 
 [params]
-  # dir name of your blog content (default is `content/posts`).
-  # the list of set content will show up on your index page (baseurl).
+  subtitle = ""
   contentTypeName = "posts"
 
   [params.header]
