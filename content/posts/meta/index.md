@@ -16,7 +16,7 @@ I have always enjoyed writing. It probably comes as no surprise from someone who
 It all comes from a close affinity with words. How beautiful, vibrant, and alive they can seem.
 Only, when it comes down to it, words are merely containers, nothing else,
 their significance comes from what meaning and symbols are assigned to them.
-Though, not only about their immediate meaning either:
+Though, it's not only about their immediate meaning either:
 words, and the way they are woven into sentences, offer much more to our senses than their mere definitions.
 They tell a story, a story about the writer, their personality, their background, their circumstance at the moment of writing, and much more.
 That's one of the most beautiful things about human communication.
@@ -76,7 +76,7 @@ The same holds for themes, I did not want to stick to a particular theme in jour
 I am a man of many interests,
 and making the thoughts and contents that I share here more streamlined and coherent is not reason enough to renounce any of them.
 That is just not me.
-Honnesty is important to me, and I could not go on telling you about our intimate communication a few paragraphs above,
+Honesty is important to me, and I could not go on telling you about our intimate communication a few paragraphs above,
 and then conceal some major aspects of my personality.
 This blog will be a reflection of who I am, and everything ought to be more authentic that way.
 Though you are perfectly free to be only interested in some aspects of who I am, then tags are your friends.
