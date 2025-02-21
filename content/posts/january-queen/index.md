@@ -31,7 +31,7 @@ You should try sometime!
 
 <img 
     src="./images/IMG_4124.jpg"
-    alt="galette_decoration"
+    alt="galette 2024"
     width="400"
     style="display: block; margin-left: auto; margin-right: auto;">
 
@@ -76,13 +76,13 @@ Or maybe I just did not adhere to the traditional sense of the word.
 After all, I did say that I was not one for traditions.
 As a matter of fact, I do wonder if the decoration of a galette is more of an artistic activity than the making of the puff pastry.
 It is very clear to me where true creation lies.
-Though, I suppose that society has a tendancy to deem artistic any activity that embelishes to an extent.
+Though, I suppose that society has a tendancy to deem artistic any activity that embellishes to an extent.
 What is certain is that true appreciation for food is an experience that involves all five senses, not only taste.
 The sound of a baguette is something to behold.
 
 <img 
     src="./images/IMG-20220109-WA0002.jpg"
-    alt="galette_decoration"
+    alt="galette decoration"
     width="400"
     style="display: block; margin-left: auto; margin-right: auto;">
 
