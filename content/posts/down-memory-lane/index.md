@@ -1,5 +1,5 @@
 +++
-date = "2025-02-13T20:20:03+01:00"
+date = "2025-02-19T20:20:03+01:00"
 draft = false
 title = "Down Memory Lane"
 description = "Vedi Napoli e poi muori"
@@ -77,7 +77,7 @@ I want to have a home, a place that I can come back to,
 a relatively settled life in which I feel comfortable,
 but I also want to have that feeling that I can easily break away from the routine,
 and to do so without too many constraints.
-The good news about wanting to change in such a way is that you have already had both personalites,
+The good news about wanting to change in such a way is that you have already had both personalities,
 at different times of your life, and in different places.
 I tend to liken it to cutting down on alcohol after your student years,
 while preserving some of the drunk version of your personailty in your regular self.
